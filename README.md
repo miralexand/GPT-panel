@@ -203,11 +203,7 @@ npm run lint
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/elegant-gpt-interface&type=Timeline)](https://star-history.com/#your-username/elegant-gpt-interface&Timeline)
-
-*提示：将 `your-username` 替换为实际的GitHub用户名以启用star history图表。*
 
 ## 🙏 致谢
 
