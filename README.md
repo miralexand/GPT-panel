@@ -2,7 +2,7 @@
 
 一个现代化、优雅的GPT聊天界面，支持多种GPT模型和实时API日志。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/elegant-gpt-interface&type=Timeline)](https://star-history.com/#your-username/elegant-gpt-interface&Timeline)
+
 
 ## ✨ 特性
 
@@ -225,3 +225,12 @@ npm run lint
 **Enjoy coding!** 🚀
 
 如果这个项目对你有帮助，请不要忘记给它一个 ⭐️！
+## Star History
+
+<a href="https://www.star-history.com/?repos=miralexand%2FGPT-panel&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=miralexand/GPT-panel&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=miralexand/GPT-panel&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=miralexand/GPT-panel&type=date&legend=top-left" />
+ </picture>
+</a>
